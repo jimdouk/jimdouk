@@ -1,8 +1,12 @@
-<h1 align="center">Hey I'm Dimitris Doukas</h1>
+<h1 align="center">Hey I'm Dimitris Doukas?</h1>
 
 ###
 
-<p align="left">I am an undergraduate student at AUEB in the Department of Management Science & Technology.</p>
+<p align="center"><b>I am an undergraduate student at AUEB in the Department of Management Science & Technology.</b></p>
+
+###
+
+<p align="left">📫 How to reach me dimitrisdoukas15@gmail.com <br><br>📄 Know about my experiences www.linkedin.com/in/doukasdimitris</p>
 
 ###
 
