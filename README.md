@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><b>I am an undergraduate student at AUEB in the Department of Management Science & Technology.</b></p>
+<p align="center"><b>I am a graduate student at AUEB in the Department of Management Science & Technology.</b></p>
 
 ###
 
